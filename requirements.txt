@@ -1,0 +1,17 @@
+# Telegram Report Bot - Requirements
+# បង្កើតឡើងដោយ @mengheang25
+
+# កញ្ចប់ចាំបាច់សម្រាប់ដំណើរការ Bot
+telethon==1.34.0
+cryptg==0.4.0
+cryptography==42.0.5
+python-dotenv==1.0.1
+aiofiles==23.2.1
+colorama==0.4.6
+psutil==5.9.8
+requests==2.31.0
+
+# កញ្ចប់សម្រាប់អ្នកអភិវឌ្ឍន៍ (មិនចាំបាច់សម្រាប់ដំណើរការ)
+# black==24.2.0
+# pylint==3.0.3
+# pytest==8.0.2
